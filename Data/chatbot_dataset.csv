@@ -1,0 +1,21 @@
+User Utterance,Entities,Bot Response
+Hello,greeting,Hi there! How can I help you today?
+Hi there,greeting,Hello! Hope you're having a good day.
+How are you?,greeting,I'm doing great! How can I assist?
+Good morning,greeting,Good morning! What's on your mind?
+Hey,greeting,Hey! What can I do for you?
+I need help,support,I'd be happy to help! What seems to be the issue?
+Can you assist me?,support,"Of course, I am here to assist you."
+I have a problem,support,Please tell me more about the problem so I can help.
+Help me please,support,I can definitely help with that!
+Where is my order?,tracking,"To track your order, please provide your 10-digit order ID."
+Track my package,tracking,I can check your order status. What is your tracking number?
+Order status,tracking,Let's find your package! Please enter your order number.
+Where is my box?,tracking,I can help you locate that. What is the order ID?
+Thank you,gratitude,You are very welcome!
+Thanks a lot,gratitude,Happy to help!
+I appreciate it,gratitude,Anytime! Let me know if you need anything else.
+Goodbye,goodbye,Goodbye! Have a great day!
+See you later,goodbye,See you later! Feel free to reach out if you need anything else.
+Bye,goodbye,Bye! Take care!
+Talk to you later,goodbye,Goodbye! Stay safe!
