@@ -1,10 +1,3 @@
----
-
-### Level 2: Smart NLP AI Chatbot (README.md)
-
-Copy this block for your second repository:
-
-```markdown
 # 🤖 Smart NLP AI Chatbot 💬
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white)
@@ -25,9 +18,6 @@ An end-to-end Artificial Intelligence chatbot built using Natural Language Proce
 
 ## 📸 Interactive Web Interface
 *A fully interactive, responsive chat interface featuring custom avatars and session state memory.*
-
-![Chatbot UI Screenshot](path/to/your/screenshot.png)
-*(Note: Drag your Streamlit web app screenshot into the repo and replace this path)*
 
 ---
 
@@ -56,4 +46,5 @@ cognevance_NLP_Chatbot/
 ├── chatbot_model.keras     # Saved TensorFlow neural network model
 ├── tokenizer.pkl           # Saved text vectorizer object
 ├── encoder.pkl             # Saved label encoder for intent mapping
+├── Output/                 # Folder containing UI screenshots
 └── README.md               # Project documentation
