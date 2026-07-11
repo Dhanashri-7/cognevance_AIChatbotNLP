@@ -1,3 +1,9 @@
+---
+
+### Level 2: Smart NLP AI Chatbot (README.md)
+
+Copy this block for your second repository:
+
 ```markdown
 # 🤖 Smart NLP AI Chatbot 💬
 
@@ -20,7 +26,8 @@ An end-to-end Artificial Intelligence chatbot built using Natural Language Proce
 ## 📸 Interactive Web Interface
 *A fully interactive, responsive chat interface featuring custom avatars and session state memory.*
 
-
+![Chatbot UI Screenshot](path/to/your/screenshot.png)
+*(Note: Drag your Streamlit web app screenshot into the repo and replace this path)*
 
 ---
 
