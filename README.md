@@ -1,51 +1,49 @@
-# 🎬 Movie Recommendation System 🍿
+```markdown
+# 🤖 Smart NLP AI Chatbot 💬
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-2.0-150458?logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-1.26-013243?logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.15-FF6F00?logo=tensorflow&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-1.31-FF4B4B?logo=streamlit&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-NLP-329555?logo=python&logoColor=white)
 
-**Project Level:** Easy (Level 1)  
+**Project Level:** Intermediate (Level 2)  
 **Domain:** Artificial Intelligence & Machine Learning  
 **Institution:** Cognevance Technologies  
 
 ---
 
 ## 📑 Project Overview
-This repository contains an AI-based recommendation engine designed to suggest movies tailored to user interests and historical ratings. By analyzing trends in movie categories and user behavior, the system leverages collaborative filtering to generate highly relevant content suggestions.
+An end-to-end Artificial Intelligence chatbot built using Natural Language Processing (NLP) and Deep Learning. This project takes raw user text input, processes it using advanced NLP techniques, predicts the user's underlying intent using a trained Artificial Neural Network (ANN), and replies with contextually appropriate responses via a modern web interface.
 
 ---
 
-## 📸 Project Showcase
-*Data visualizations and system outputs demonstrating the recommendation algorithm in action.*
+## 📸 Interactive Web Interface
+*A fully interactive, responsive chat interface featuring custom avatars and session state memory.*
 
-![Recommendation Output](Output/NLP1.png) 
-*(Note: Replace this link with your actual screenshot path inside the screenshots folder)*
 
----
-
-## 🚀 Pipeline & Workflow
-1. **Data Collection:** Sourced and imported comprehensive movie and user ratings datasets.
-2. **Data Cleaning:** Processed the raw data by removing null values, handling duplicates, and standardizing data types.
-3. **Exploratory Data Analysis (EDA):** Visualized rating distributions, popular movie categories, and historical user trends using Matplotlib and Seaborn.
-4. **Modeling:** Implemented a Collaborative Filtering algorithm to map user similarities and generate predictive movie suggestions.
-5. **Output Generation:** Displayed the final recommended movie titles alongside analytical visualizations.
+## 🚀 Key Features
+* **Custom Deep Learning Model:** Built and trained a Sequential Neural Network using TensorFlow/Keras to classify text intents accurately.
+* **NLP Text Processing:** Utilized the Natural Language Toolkit (NLTK) for complex word tokenization, lemmatization (WordNet), and TF-IDF vectorization.
+* **Modern Web UI:** Deployed a highly intuitive frontend using Streamlit to simulate a real-world messaging application.
+* **Customizable Dataset:** Trained on a custom CSV dataset that maps user utterances to specific intent categories and corresponding bot responses.
 
 ---
 
-## 🛠️ Technologies Used
-* **Language:** Python
-* **Data Manipulation:** Pandas, NumPy
-* **Data Visualization:** Matplotlib, Seaborn
-* **Environment:** Jupyter Notebook / Python Scripts
+## 🛠️ Tech Stack
+* **Core Language:** Python 3
+* **Deep Learning:** TensorFlow & Keras 
+* **Natural Language Processing:** NLTK (Natural Language Toolkit)
+* **Data Processing:** Pandas, NumPy, Scikit-Learn (Label Encoding)
+* **Frontend Framework:** Streamlit 
 
 ---
 
 ## 🗂️ Repository Structure
 ```text
-cognevance_MovieRecommendationSystem/
-├── data/               # Raw and processed movie/ratings datasets
-├── src/                # Python source code (Notebooks and Scripts)
-├── screenshots/        # Visualizations and system outputs
-├── Report.md           # Detailed project workflow report
-└── README.md           # Project documentation
+cognevance_NLP_Chatbot/
+├── app.py                  # Main Streamlit web application script
+├── chatbot_dataset.csv     # Training data (intents, phrases, responses)
+├── chatbot_model.keras     # Saved TensorFlow neural network model
+├── tokenizer.pkl           # Saved text vectorizer object
+├── encoder.pkl             # Saved label encoder for intent mapping
+└── README.md               # Project documentation
