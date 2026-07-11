@@ -19,6 +19,9 @@ An end-to-end Artificial Intelligence chatbot built using Natural Language Proce
 ## 📸 Interactive Web Interface
 *A fully interactive, responsive chat interface featuring custom avatars and session state memory.*
 
+![Chatbot UI Screenshot](Output/your_screenshot_name.png)
+*(Note: Replace "your_screenshot_name.png" with the actual filename of your screenshot located in the Output folder.)*
+
 ---
 
 ## 🚀 Key Features
@@ -48,7 +51,3 @@ cognevance_NLP_Chatbot/
 ├── encoder.pkl             # Saved label encoder for intent mapping
 ├── Output/                 # Folder containing UI screenshots
 └── README.md               # Project documentation
-
-## 🤝 Contact & Submission
-* **Developer:** [Dhanashri Santosh Pawar]
-* **LinkedIn:** [www.linkedin.com/in/dhanashri-santosh-pawar-2ab011400]
