@@ -19,7 +19,7 @@ This repository contains an AI-based recommendation engine designed to suggest m
 ## 📸 Project Showcase
 *Data visualizations and system outputs demonstrating the recommendation algorithm in action.*
 
-![Recommendation Output](screenshots/output_placeholder.png) 
+![Recommendation Output](Output/NLP1.png) 
 *(Note: Replace this link with your actual screenshot path inside the screenshots folder)*
 
 ---
