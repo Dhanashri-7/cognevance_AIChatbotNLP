@@ -48,3 +48,7 @@ cognevance_NLP_Chatbot/
 ├── encoder.pkl             # Saved label encoder for intent mapping
 ├── Output/                 # Folder containing UI screenshots
 └── README.md               # Project documentation
+
+## 🤝 Contact & Submission
+* **Developer:** [Dhanashri Santosh Pawar]
+* **LinkedIn:** [www.linkedin.com/in/dhanashri-santosh-pawar-2ab011400]
