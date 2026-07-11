@@ -21,6 +21,9 @@ An end-to-end Artificial Intelligence chatbot built using Natural Language Proce
 *A fully interactive, responsive chat interface featuring custom avatars and session state memory.*
 
 
+
+---
+
 ## 🚀 Key Features
 * **Custom Deep Learning Model:** Built and trained a Sequential Neural Network using TensorFlow/Keras to classify text intents accurately.
 * **NLP Text Processing:** Utilized the Natural Language Toolkit (NLTK) for complex word tokenization, lemmatization (WordNet), and TF-IDF vectorization.
